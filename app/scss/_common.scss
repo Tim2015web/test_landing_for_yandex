@@ -1,13 +1,25 @@
 /*Common style*/
 
+// @media (max-width: 1366px) {}
+// @media (max-width: 1200px) {}
+// @media (max-width: 375px) {}
+
+// font-family: 'Golos Text', sans-serif;
+// font-family: 'Merriweather', serif;
+// font-family: 'Montserrat', sans-serif;
+
+:root {
+  --mainColor: #313131;
+}
+
 body {
   font-family: 'Golos Text', sans-serif;
 }
 
 .container {
-  // --width: 1180px;
-  // --padding: 30px;
-  // max-width: calc(var(--width) + var(--padding) * 2);
-  // margin: 0 auto;
-  // padding: 0 var(--padding);
+  --width: 1222px;
+  --padding: 30px;
+  max-width: calc(var(--width) + var(--padding) * 2);
+  margin: 0 auto;
+  padding: 0 var(--padding);
 }
