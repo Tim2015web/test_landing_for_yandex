@@ -18,8 +18,17 @@ body {
 
 .container {
   --width: 1222px;
-  --padding: 30px;
+  --padding: 72px;
   max-width: calc(var(--width) + var(--padding) * 2);
   margin: 0 auto;
   padding: 0 var(--padding);
+
+  @media (max-width: 1200px) {
+    // --padding: 96px;
+    --padding: 8vw;
+  }
+
+  @media (max-width: 375px) {
+    --padding: 20px;
+  }
 }
