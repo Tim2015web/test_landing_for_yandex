@@ -192,7 +192,6 @@
           padding: 16px 0;
           flex-wrap: wrap;
           gap: 12px;
-
         }
 
         div {
@@ -231,24 +230,11 @@
         }
       }
 
-      &-row:nth-child(3) {
-
-        @media (max-width: 1200px) {}
-      }
-
-      &-row:nth-child(4) {
-
-        @media (max-width: 1200px) {}
-      }
-
       &-row:nth-child(5) {
-
         border-bottom: none;
 
         div {
           padding-bottom: 0px;
-
-          @media (max-width: 1200px) {}
         }
 
         div:nth-child(2) {
@@ -269,7 +255,6 @@
               border-radius: 2px;
             }
           }
-
         }
       }
     }
@@ -281,7 +266,7 @@
         margin-top: 29px;
       }
 
-      a {
+      p {
         color: #3057A2;
         font-size: 20px;
         font-weight: 400;
