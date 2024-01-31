@@ -327,6 +327,7 @@
         svg {
           circle {
             fill: #FBCE51;
+            transition: 0.5s;
           }
         }
       }
@@ -361,6 +362,7 @@
       &:hover {
         circle {
           fill: #FBCE51;
+          transition: 0.5s;
         }
       }
     }

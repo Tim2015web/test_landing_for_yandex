@@ -95,7 +95,6 @@
         text-transform: uppercase;
 
         @media (max-width: 1200px) {
-          // font-size: 5vw;
           font-size: clamp(28px, 5vw, 60px);
         }
 
@@ -221,6 +220,7 @@
         &:hover {
           color: #1F1F1F;
           background-color: #FBCE51;
+          transition: 0.5s;
         }
       }
 
@@ -237,6 +237,7 @@
         &:hover {
           color: #ffffff;
           background-color: #1F1F1F;
+          transition: 0.5s;
         }
       }
     }
