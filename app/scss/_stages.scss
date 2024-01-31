@@ -350,6 +350,8 @@
     display: flex;
     gap: 6px;
 
+    -webkit-tap-highlight-color: transparent;
+
     &-active {
       circle {
         fill: #313131;

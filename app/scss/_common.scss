@@ -12,6 +12,10 @@
   --mainColor: #313131;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: 'Golos Text', sans-serif;
 }
@@ -24,7 +28,6 @@ body {
   padding: 0 var(--padding);
 
   @media (max-width: 1200px) {
-    // --padding: 96px;
     --padding: 8vw;
   }
 

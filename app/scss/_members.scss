@@ -120,6 +120,8 @@
         line-height: 1.2;
         text-align: center;
 
+        -webkit-tap-highlight-color: transparent;
+
         @media (max-width: 375px) {
           margin: 20px auto 0 auto;
         }
@@ -165,6 +167,8 @@
       background-color: unset;
       width: 44px;
       height: 44px;
+
+      -webkit-tap-highlight-color: transparent;
 
       @media (max-width: 375px) {
         width: 36px;
