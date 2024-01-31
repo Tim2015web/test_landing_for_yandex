@@ -2,6 +2,7 @@
 
 <p>
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white">
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white">
 <img alt="SSC3" src="https://img.shields.io/badge/-SSC3-1572B6?style=flat-square&logo=css3&logoColor=white">
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white">
 <img alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?style=flat-square&logo=gulp&logoColor=white">
